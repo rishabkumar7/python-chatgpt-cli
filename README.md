@@ -12,8 +12,8 @@ This package requires `python 3`. And a human to use it.
 
 To install this CLI tool you can run the below command
 
-```
-pip3 install 
+``` python
+pip install -i https://test.pypi.org/simple/ python-chatgpt-cli
 ```
 
 The above commands would install the package globally and `chatgpt_cli` will be available on your system.
