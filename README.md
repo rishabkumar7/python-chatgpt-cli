@@ -20,6 +20,12 @@ The above commands would install the package globally and `chatgpt_cli` will be 
 
 ### How to use
 
+Make sure to get an API key for OpenAI, you can get that from - [https://openai.com/api](https://openai.com/api/)
+
+Set an environment variable `OPENAI_API_KEY = <YOUR OPENAI API KEY>`
+
+You are good to use the `chatgpt_cli` command:
+
 ``` bash
 chatgpt_cli
 Ask ChatGPT 🤖 
