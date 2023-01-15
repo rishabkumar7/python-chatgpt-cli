@@ -31,7 +31,11 @@ chatgpt_cli
 Ask ChatGPT 🤖 
 Who is Ronaldo?                                                 
 
-Ronaldo is a Portuguese professional soccer player who currently plays for the Italian Serie A club Juventus. He is widely considered one of the greatest soccer players of all time. Ronaldo has won five Ballon dOr awards, the most for a European player, and is the first player to win four European Golden Shoes. He has also won 29 trophies in his career, including five league titles, four UEFA Champions League titles, and one UEFA European Championship.
+Ronaldo is a Portuguese professional soccer player who currently plays for the Italian Serie A club Juventus.  
+He is widely considered one of the greatest soccer players of all time. Ronaldo has won five Ballon dOr awards, 
+the most for a European player, and is the first player to win four European Golden Shoes. He has also won 29 
+trophies in his career, including five league titles, four UEFA Champions League titles, and one UEFA European
+Championship.
 ```
 
 ### Feedback
