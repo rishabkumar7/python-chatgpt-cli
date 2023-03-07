@@ -5,7 +5,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
     name = 'python-chatgpt-cli',
-    version = '0.0.1',
+    version = '0.0.2',
     author = 'Rishab Kumar',
     author_email = 'rishabkumar7@gmail.com',
     license = 'MIT',
