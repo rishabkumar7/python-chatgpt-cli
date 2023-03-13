@@ -2,6 +2,7 @@ import os
 import logging
 import openai
 import pyfiglet
+import pwinput
 
 ascii_banner = pyfiglet.figlet_format("ChatGPT in CLI!")
 print(ascii_banner)
@@ -10,7 +11,7 @@ if openai.api_key:
     logging.info(f"Proceeding since environment variable OPENAI_API_KEY exists {openai.api_key=}")
     pass
 else:
-    openai.api_key = input("Please input your OpenAI API key:")
+    openai.api_key = pwinput.pwinput(prompt='Please input your OpenAI API key:', mask='*')
     pass
 
 def chatgpt():

@@ -1,3 +1,4 @@
 click>=7.1.2
 openai>=0.26.0
 pyfiglet>=0.8
+pwinput>=1.0.3
